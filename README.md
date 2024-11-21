@@ -30,9 +30,9 @@
 
 | 이수연 | 이시연 | 유기민 | 조다은 | 김태우 |
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이수연" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="이시연" width="150"> | <img src="https://avatars.githubusercontent.com/u/70886438?v=4" alt="유기민" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="조다은" width="150"> | <img src="https://avatars.githubusercontent.com/u/70886438?s=400&u=f0a3d1d4ac1cf0e1e531ddc648e6d2bcc4e3d418&v=4" alt="김태우" width="150"> |
+| <img src="https://i.pinimg.com/736x/bd/05/6e/bd056e0ff7138b992464d96dfffe8ff7.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/7e/6b/39/7e6b39d071c5a0dc33fd2d61788b964d.jpg" alt="이시연" width="150" height="150"> | <img src="https://i.pinimg.com/736x/61/4d/64/614d64378dda207992c4c70d29452b84.jpg" alt="유기민" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/f3/9f/42/f39f422326264213a1a871ceb97a6bf1.jpg" alt="조다은" width="150" height="150"> | <img src="https://i.pinimg.com/736x/13/ad/a1/13ada1a3dbb6c57f8fec1c386ea31546.jpg" alt="김태우" width="150" height="150"> |
 | PL | FE | FE | FE | FE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) | [GitHub](https://github.com/su-9woo) |
+| [GitHub](https://github.com/javapyhtml) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/su-9woo) |
 
 ---
 
@@ -194,5 +194,4 @@ project/
 ├── .gitignore                   # Git 무시 파일 목록
 ├── README.md                    # 프로젝트 개요 및 사용법
 
-(프로젝트 구조 내용은 변경되지 않았습니다.)
 
